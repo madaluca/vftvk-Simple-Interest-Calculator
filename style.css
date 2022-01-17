@@ -11,3 +11,7 @@ h1{color:grey;font-family: verdana;}
     flex-direction: column;
     margin: 0 auto;
 }
+
+.highlight {
+    color: yellow;
+}
