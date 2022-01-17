@@ -15,3 +15,11 @@ h1{color:grey;font-family: verdana;}
 .highlight {
     color: yellow;
 }
+
+.rateContainer {
+    display: flex;
+}
+
+.rateContainer input {
+    flex: 1;
+}
